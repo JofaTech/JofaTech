@@ -1,6 +1,6 @@
 ![Header](./GitHub_Header_1.png)
 # Hey Everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Brandon Lukevich, a Computer Science graduate from the University of Florida, and I am actively seeking a role as a software engineer or developer. I am fascinated by patterns, fractals, puzzles in general, and have a life-long passion for learning. PLease reach out so we can chat!
+My name is Brandon Lukevich, a Computer Science graduate from the University of Florida, and I am actively seeking a role as a software engineer or developer. I enjoy tackling problems outside of my wheelhouse, as there is nothing more satisfying than successfully breaking down and solving a complex problem (and learning something along the way). PLease reach out so we can chat!
 
 ## Connect With Me
 <div id="connect_badges">
